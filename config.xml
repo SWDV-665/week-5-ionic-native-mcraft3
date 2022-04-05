@@ -102,5 +102,5 @@
         <variable name="PHOTO_LIBRARY_ADD_USAGE_DESCRIPTION" value="This app requires photo library access to function properly." />
         <variable name="PHOTO_LIBRARY_USAGE_DESCRIPTION" value="This app requires photo library access to function properly." />
     </plugin>
-    <engine name="android" spec="~7.1.4" />
+    <engine name="android" spec="^7.1.4" />
 </widget>
